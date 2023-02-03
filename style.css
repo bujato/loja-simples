@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,300;0,400;1,900&family=Bebas+Neue&family=Comfortaa:wght@300;400&family=Covered+By+Your+Grace&family=Open+Sans:ital,wght@1,300&family=Orbitron&family=Quicksand:wght@300&family=VT323&display=swap');
+
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 90px;
+    height: 90px;
+}
+
+/* Edição do carrinho em geral*/
+
+.indice {
+    background-color: #f8f8f8;
+    align-items: left;
+    padding: 20px;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    bottom: 100px;
+    right: 100px;
+}
+
+.nome-loja {
+    display: flex;
+    letter-spacing: 2px;
+    padding: 5px;
+    border: 10px;
+ }
+
+.botao-comprar {
+    width: 100px;
+    height: 40px;
+    color: #ffffff;
+    margin: auto;
+    left: auto;
+    bottom: auto;
+    top: auto;
+    right: auto;
+    justify-content: center;
+    background-color: #0f0f94;
+    border-radius: 40px;
+    padding: 10px;
+    border: 5px;
+}
+
+.carrinho {
+    font-size: 40px;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 200px;
+    height: 50px;
+    padding: 15px;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.caixa-produto-um {
+    border: 5px solid #00000015;
+    display: flex;
+    align-items: center;
+    background-color: #f8f8f8;
+    justify-content: space-between;
+    border-radius: 25px;
+    height: 240px;
+    padding: 20px;
+    margin: 30px;
+}
+
+.caixa-produto-dois {
+    border: 5px solid #00000015;
+    display: flex;
+    align-items: center;
+    background-color: #f8f8f8;
+    justify-content: space-between;
+    border-radius: 25px;
+    height: 240px;
+    padding: 20px;
+    margin: 30px;
+}
+
+.caixa-produto-tres {
+    border: 5px solid #00000015;
+    display: flex;
+    align-items: center;
+    background-color: #f8f8f8;
+    justify-content: space-between;
+    border-radius: 25px;
+    height: 240px;
+    padding: 20px;
+    margin: 30px;
+}
+
+.caixa-produto-quatro {
+    border: 5px solid #00000015;
+    display: flex;
+    align-items: center;
+    background-color: #f8f8f8;
+    justify-content: space-between;
+    border-radius: 25px;
+    height: 240px;
+    padding: 20px;
+    margin: 30px;
+}
+
+.monitor {
+    margin-left: 40px;
+    margin-right: auto; 
+    color:  #0f0f94;
+    text-align: justify;
+}
+
+.gabinete {
+    margin-left: 40px;
+    margin-right: auto; 
+    color:  #0f0f94;
+    text-align: justify;
+}
+
+.iphone{
+    margin-left: 40px;
+    margin-right: auto; 
+    color:  #0f0f94;
+    text-align: justify;
+}
+
+.mouse {
+    margin-left: 40px;
+    margin-right: auto; 
+    color:  #0f0f94;
+    text-align: justify;
+}
+
+.qtde-produtos {
+    cursor: pointer;
+    border-radius: 30%;
+    font-size: 30px;
+    height: 40px;
+    width: 40px;
+    margin-left: auto;
+    margin-right: 40px; 
+}
+
+.preco {
+    cursor: pointer;
+    border-radius: 20%;
+    font-size: 30px;
+    height: 40px;
+    width: 40px;
+    margin-right: 40px; 
+    margin-left: auto;
+    font-size: 20px;
+}
+
+
